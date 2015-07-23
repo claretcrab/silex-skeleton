@@ -30,7 +30,7 @@ vhost configuration:
 Browsing
 --------
 
-Congratulations! You're now ready to use InstantApp.
+Congratulations! You're now ready to use Silex Skeleton.
 
 `Browse to` http://silex-skeleton.project/index_dev.php (dev environment)
 
